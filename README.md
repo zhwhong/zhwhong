@@ -29,11 +29,11 @@
 
 <p align="center">
     <!-- https://github.com/badges/shields -->
-    <a href="https://github.com/zhwhong"><img src="https://img.shields.io/badge/GitHub-zhwhong-blue?logo=github" /></a>
-    <a href="https://scholar.google.com/citations?user=uPBztC0AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Scholar-Zhiwei Hong-orange?logo=google" /></a>
+    <a href="https://github.com/zhwhong"><img src="https://img.shields.io/badge/GitHub-zhwhong-orange?logo=github" /></a>
+    <a href="https://scholar.google.com/citations?user=uPBztC0AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Scholar-Zhiwei Hong-purple?logo=googlescholar" /></a>
     <a href="https://www.linkedin.com/in/zhiweihong/"><img src="https://img.shields.io/badge/Linkedin-zhiweihong-blue?logo=linkedin" /></a>
-    <a href="https://www.zhihu.com/people/zhwhong"><img src="https://img.shields.io/badge/Zhihu-zhwhong-green?logo=zhihu" /></a>
-    <a href="https://www.epubit.com/bookDetails?id=UB6c87372364d70"><img src="https://img.shields.io/badge/Book-Deep Learning by Example-purple?logo=book" /></a>
+    <a href="https://www.zhihu.com/people/zhwhong"><img src="https://img.shields.io/badge/Zhihu-zhwhong-c?logo=zhihu" /></a>
+    <a href="https://www.epubit.com/bookDetails?id=UB6c87372364d70"><img src="https://img.shields.io/badge/Book-深度学习案例精粹-pink?logo=Read.cv" /></a>
     <!-- <img src="https://img.shields.io/badge/QQ-1359434736-green?logo=tencentqq" /> -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=zhwhong&abbreviated=true&color=yellow" />
