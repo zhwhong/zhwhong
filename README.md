@@ -1,7 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
+<!-- <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Zhiwei%20Hong%20!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+</p> -->
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -24,10 +24,11 @@
 
 <p align="center">
     <!-- https://github.com/tandpfun/skill-icons -->
-    <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,cpp,mysql,html,git,linux,bash,markdown,latex,matlab&theme=light" />
-    </p>
+    <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,c,cpp,mysql,html,git,linux,bash,markdown,latex&theme=light" />
+</p>
+
+<p align="center">
     <!-- https://github.com/badges/shields -->
-    <p align="center">
     <a href="https://github.com/zhwhong"><img src="https://img.shields.io/badge/GitHub-zhwhong-blue?logo=github" /></a>
     <a href="https://scholar.google.com/citations?user=uPBztC0AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Scholar-Zhiwei Hong-orange?logo=google" /></a>
     <a href="https://www.linkedin.com/in/zhiweihong/"><img src="https://img.shields.io/badge/Linkedin-zhiweihong-blue?logo=linkedin" /></a>
