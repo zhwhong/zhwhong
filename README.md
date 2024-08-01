@@ -1,11 +1,11 @@
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Zhiwei%20Hong!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Zhiwei%20Hong%20!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page+!;Talk+is+cheap+,+show+me+the+code+!" />
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img align="center" width="400" src="https://streak-stats.demolab.com?user=zhwhong&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
     <br/>
-    <img width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhwhong&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=8" />
+    <img align="center" width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhwhong&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=8" />
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=zhwhong&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+    <img align="center" width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=zhwhong&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=zhwhong&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
     <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -29,11 +29,16 @@
     <!-- https://github.com/badges/shields -->
     <p align="center">
     <a href="https://github.com/zhwhong"><img src="https://img.shields.io/badge/GitHub-zhwhong-blue?logo=github" /></a>
-    <a hred="https://scholar.google.com/citations?user=uPBztC0AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Scholar-Zhiwei Hong-orange?logo=google" /></a>
-    <a hred="https://www.linkedin.com/in/zhiweihong/"><img src="https://img.shields.io/badge/Linkedin-zhiweihong-blue?logo=linkedin" /></a>
-    <a hred="https://www.zhihu.com/people/zhwhong"><img src="https://img.shields.io/badge/Zhihu-zhwhong-green?logo=zhihu" /></a>
-    <a hred="https://www.epubit.com/bookDetails?id=UB6c87372364d70"><img src="https://img.shields.io/badge/Book-Deep Learning by Example-purple?logo=book" /></a>
+    <a href="https://scholar.google.com/citations?user=uPBztC0AAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Scholar-Zhiwei Hong-orange?logo=google" /></a>
+    <a href="https://www.linkedin.com/in/zhiweihong/"><img src="https://img.shields.io/badge/Linkedin-zhiweihong-blue?logo=linkedin" /></a>
+    <a href="https://www.zhihu.com/people/zhwhong"><img src="https://img.shields.io/badge/Zhihu-zhwhong-green?logo=zhihu" /></a>
+    <a href="https://www.epubit.com/bookDetails?id=UB6c87372364d70"><img src="https://img.shields.io/badge/Book-Deep Learning by Example-purple?logo=book" /></a>
     <!-- <img src="https://img.shields.io/badge/QQ-1359434736-green?logo=tencentqq" /> -->
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=zhwhong&abbreviated=true&color=yellow" />
 </p>
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<!-- <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p> -->
